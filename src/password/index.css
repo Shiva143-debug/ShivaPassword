@@ -1,0 +1,138 @@
+.app-container {
+  background-color: #9ba9eb;
+  size: cover;
+}
+.image {
+  width: 100px;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+.card1 {
+  background-color: #5763a5;
+  padding: 20px;
+  margin-right: 50px;
+  margin-left: 50px;
+  border-radius: 16px;
+  display: flex;
+  margin-bottom: 20px;
+}
+.input-card {
+  background-color: #454f84;
+  margin-right: 50px;
+  margin-left: 50px;
+  border-radius: 16px;
+  width: 400px;
+}
+.head {
+  color: white;
+  font-size: 16px;
+  padding: 10px;
+  padding-left: 50px;
+}
+.website {
+  display: flex;
+  justify-content: center;
+  padding-right: 100px;
+  padding-left: 100px;
+  margin-bottom: 5px;
+}
+.w-image {
+  width: 50px;
+  background-color: white;
+}
+.hr {
+  color: black;
+  width: 1px;
+  height: 30px;
+}
+.input {
+  height: 50px;
+}
+.w-image-container {
+  display: flex;
+}
+.username {
+  display: flex;
+  justify-content: center;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+.password {
+  display: flex;
+  justify-content: center;
+  padding-right: 100px;
+  padding-left: 100px;
+  margin-bottom: 5px;
+}
+.button {
+  background-color: blue;
+  border-radius: 8px;
+  border-color: blue;
+  margin-left: 280px;
+  color: white;
+  margin-bottom: 10px;
+}
+.key-image {
+  width: 300px;
+}
+.psd-count {
+  display: flex;
+}
+.search-icon-container {
+  display: flex;
+  margin-top: 20px;
+  margin-left: 400px;
+}
+.search-icon {
+  width: 20px;
+  height: 20px;
+}
+.search-i {
+  height: 20px;
+}
+.nav {
+  display: flex;
+}
+.psd-b {
+  width: 20px;
+  height: 20px;
+  margin-top: 20px;
+  margin-left: 5px;
+}
+.card2 {
+  background-color: #5763a5;
+  padding: 20px;
+  margin-right: 50px;
+  margin-left: 50px;
+  border-radius: 16px;
+
+  margin-bottom: 20px;
+}
+.psd-head {
+  color: white;
+  font-size: 18px;
+}
+.hr {
+  width: 90%;
+}
+.label {
+  color: white;
+}
+.label-checkbox {
+  text-align: right;
+  padding-right: 100px;
+}
+.list-container {
+  display: flex;
+  margin-right: 10px;
+}
+.card2-image {
+  width: 500px;
+  margin: 50px;
+}
+.no-para {
+  color: white;
+}
+.no-container {
+  text-align: center;
+}
